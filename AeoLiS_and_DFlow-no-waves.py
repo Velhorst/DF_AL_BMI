@@ -9,7 +9,6 @@ Created on Mon Aug 29 11:28:06 2016
 # ============================================================================
 
 # for aeolis
-import pandas as pd
 from aeolis.model import AeoLiSRunner
 from aeolis.model import AeoLiS
 
